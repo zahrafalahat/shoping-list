@@ -1,4 +1,4 @@
-# shoping-list
+# shopping-list
 A simple python project for creating and managing a shoping list.🛒
 ## features
 -add items to the shoping list.
